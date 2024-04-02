@@ -1,0 +1,23 @@
+@import 'Variable.scss';
+@import 'Header.scss';
+@import 'Footer.scss';
+@import 'Content.scss';
+@import 'AddAccount.scss';
+@import 'Affichage.scss';
+@import 'Edit.scss';
+@import 'Histogramme.scss';
+
+.Container_App{
+    background-color: $color_white;
+    margin: 0px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: $fontfamily;
+}
+body{
+    margin: 0px;
+    
+}

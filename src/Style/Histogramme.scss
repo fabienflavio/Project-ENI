@@ -1,0 +1,10 @@
+.Container_histogramme{
+    background: linear-gradient(120deg, $color_secondary 60%, $color_tertaire );
+    border-radius: 20px;
+    padding: 20px;
+    width: 60%;
+    height: 600px;
+    margin: 50px ;
+        box-shadow: 2px 2px 1px $color_black;
+    transform: translate(300px);
+}

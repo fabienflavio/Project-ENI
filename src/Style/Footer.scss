@@ -1,0 +1,9 @@
+.Container_footer{
+height: 50px;
+background: linear-gradient(90deg, $color_secondary, $color_tertaire );
+               
+    small{
+        color: $color_white;
+        font-size: 20px;
+    }
+}

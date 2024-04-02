@@ -1,0 +1,72 @@
+{
+  "CompteBancaire": [
+    {
+      "id": "0",
+      "NumCompte": 2222,
+      "NomDeClient": "Fabien",
+      "NomDeBank": "BNI",
+      "Montant": 900,
+      "DatePrêt": "12-15-40",
+      "MontantAPayer": 0
+    },
+    {
+      "id": "1",
+      "NumCompte": 1524,
+      "NomDeClient": "Delphin",
+      "NomDeBank": "BNI",
+      "Montant": 200,
+      "DatePrêt": "12-15-2024",
+      "MontantAPayer": 900
+    },
+    {
+      "id": "2",
+      "NumCompte": 9554,
+      "NomDeClient": "Olivier",
+      "NomDeBank": "BKT",
+      "Montant": 140,
+      "DatePrêt": "12-15-40",
+      "MontantAPayer": 140
+    },
+    {
+      "id": "3",
+      "NumCompte": 4124,
+      "NomDeClient": "Isaia",
+      "NomDeBank": "BFV",
+      "Montant": 300,
+      "DatePrêt": "12-15-2018",
+      "MontantAPayer": 800
+    }
+  ],
+  "DonneeHistogramme": [
+    {
+      "label": "12-15-2018",
+      "value": 100,
+      "id": "52ee"
+    },
+    {
+      "label": "12-15-2018",
+      "value": 500,
+      "id": "5129"
+    },
+    {
+      "label": "12-15-2018",
+      "value": 400,
+      "id": "5b91"
+    },
+    {
+      "label": "12-15-2018",
+      "value": 300,
+      "id": "6813"
+    },
+    {
+      "label": "12-15-2018",
+      "value": 200,
+      "id": "3656"
+    },
+    {
+      "label": "12-15-2018",
+      "value": 600,
+      "id": "4870"
+    }
+  ]
+}
